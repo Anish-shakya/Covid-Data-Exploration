@@ -1,4 +1,7 @@
-
+/*
+Covid  Data Exploration 
+Skills used: Joins, CTE's, Temp Tables, Aggregate Functions, Creating Views, Converting Data Types
+*/
 
 ---selecting data that i am  going to use------
 
